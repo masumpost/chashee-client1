@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "phone": "555-1111",
+      "loanAmount": 10000.00
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "phone": "555-2222",
+      "loanAmount": 7500.00
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "phone": "555-3333",
+      "loanAmount": 12000.00
+    },
+    {
+      "id": 4,
+      "name": "David Williams",
+      "phone": "555-4444",
+      "loanAmount": 9000.00
+    },
+    {
+      "id": 5,
+      "name": "Eva Davis",
+      "phone": "555-5555",
+      "loanAmount": 11000.00
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "phone": "555-6666",
+      "loanAmount": 8000.00
+    },
+    {
+      "id": 7,
+      "name": "Grace Wilson",
+      "phone": "555-7777",
+      "loanAmount": 9500.00
+    },
+    {
+      "id": 8,
+      "name": "Henry Taylor",
+      "phone": "555-8888",
+      "loanAmount": 11500.00
+    },
+    {
+      "id": 9,
+      "name": "Ivy Clark",
+      "phone": "555-9999",
+      "loanAmount": 7000.00
+    },
+    {
+      "id": 10,
+      "name": "Jack Anderson",
+      "phone": "555-0000",
+      "loanAmount": 10500.00
+    }
+  ]
+  

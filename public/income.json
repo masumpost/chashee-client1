@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "income_name": "Salary",
+        "date": "2023-11-20",
+        "amount": 5000.00
+    },
+    {
+        "id": 2,
+        "income_name": "Freelance Work",
+        "date": "2023-11-21",
+        "amount": 1200.50
+    },
+    {
+        "id": 3,
+        "income_name": "Investment Dividends",
+        "date": "2023-11-22",
+        "amount": 300.75
+    },
+    {
+        "id": 4,
+        "income_name": "Side Gig",
+        "date": "2023-11-23",
+        "amount": 800.00
+    },
+    {
+        "id": 5,
+        "income_name": "Rental Income",
+        "date": "2023-11-24",
+        "amount": 1000.00
+    },
+    {
+        "id": 6,
+        "income_name": "Consulting Fee",
+        "date": "2023-11-25",
+        "amount": 1500.25
+    },
+    {
+        "id": 7,
+        "income_name": "Stock Sale",
+        "date": "2023-11-26",
+        "amount": 200.50
+    },
+    {
+        "id": 8,
+        "income_name": "Online Sales",
+        "date": "2023-11-27",
+        "amount": 700.00
+    },
+    {
+        "id": 9,
+        "income_name": "Gift",
+        "date": "2023-11-28",
+        "amount": 50.00
+    },
+    {
+        "id": 10,
+        "income_name": "Royalties",
+        "date": "2023-11-29",
+        "amount": 400.75
+    }
+]

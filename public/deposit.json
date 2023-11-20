@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "depositAmount": 1500.00,
+      "validity": "6 months",
+      "phone": "987-654-3210",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "depositAmount": 2000.00,
+      "validity": "9 months",
+      "phone": "555-123-4567",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "depositAmount": 1200.00,
+      "validity": "12 months",
+      "phone": "777-888-9999",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "depositAmount": 1800.00,
+      "validity": "8 months",
+      "phone": "111-222-3333",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 5,
+      "name": "Eva",
+      "depositAmount": 2500.00,
+      "validity": "10 months",
+      "phone": "444-555-6666",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "depositAmount": 1700.00,
+      "validity": "7 months",
+      "phone": "999-888-7777",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "depositAmount": 2100.00,
+      "validity": "11 months",
+      "phone": "123-789-4560",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 8,
+      "name": "Henry",
+      "depositAmount": 1400.00,
+      "validity": "5 months",
+      "phone": "654-789-3210",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 9,
+      "name": "Ivy",
+      "depositAmount": 1600.00,
+      "validity": "8 months",
+      "phone": "234-567-8901",
+      "depositDate": "2023-11-18"
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "depositAmount": 1900.00,
+      "validity": "10 months",
+      "phone": "876-543-2109",
+      "depositDate": "2023-11-18"
+    }
+  ]
+  
